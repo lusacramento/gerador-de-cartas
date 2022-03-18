@@ -1,0 +1,10 @@
+{
+    "input": {
+        "id": "",
+        "value": "",
+        "whidth": 4,
+        "isFutureCard": true,
+        "isCurrentCard": false,
+        "isPastCard": false
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "deck": [
+        {
+            "id": "0",
+            "value": "0",
+            "width": 4,
+            "isFutureCard": true,
+            "isCurrentCard": false,
+            "isPastCard": false,
+            "fragments": [
+                {
+                    "fragsA": [
+                        {
+                            "position": 0,
+                            "isHighLight": false,
+                            "fragment": 0
+                        },
+                        {
+                            "position": 0,
+                            "isHighLight": false,
+                            "fragment": 0
+                        }
+                    ]
+                },
+                {
+                    "fragsB": [
+                        {},
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "value": "1",
+            "width": 4,
+            "isFutureCard": true,
+            "isCurrentCard": false,
+            "isPastCard": false,
+            "fragments": [
+                {
+                    "position": 0,
+                    "isHighLight": false,
+                    "fragment": 0
+                }
+            ]
+        }
+    ]
+}
